@@ -1,3 +1,5 @@
+Open [https://tourmaline-pie-f0d3d9.netlify.app/](https://tourmaline-pie-f0d3d9.netlify.app/) to view it in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
